@@ -1,4 +1,4 @@
-# Car Price Prediction Using Linear Regression
+# Car Price Prediction with Machine Learning Using Linear Regression
 
 This project focuses on predicting car selling prices based on various features such as car age, fuel type, kilometers driven, and ownership. It includes data preprocessing, analysis, and building a machine learning model to estimate prices accurately.
 
