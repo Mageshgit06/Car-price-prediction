@@ -2,7 +2,7 @@
 
 This project focuses on predicting car selling prices based on various features such as car age, fuel type, kilometers driven, and ownership. It includes data preprocessing, analysis, and building a machine learning model to estimate prices accurately.
 
-Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 
 Techniques Used: Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Regression, Model Evaluation
 
